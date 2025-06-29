@@ -48,6 +48,16 @@ The goal of this project is to deliver a **comprehensive view of patient health 
 - Evaluate **cholesterol distribution trends**
   
 ---
+## 📌 Key Insights from the Dashboard
+
+- Out of 50 patients, the **average age is ~41**, with a balanced gender distribution.
+- The **average hemoglobin level is 13.16 g/dL**, slightly below the standard for adult males.
+- **Glucose levels average around 102 mg/dL**, indicating a risk zone just above normal fasting glucose.
+- A **strong positive correlation** is observed between WBC and Platelet counts.
+- **Most patients fall in the 31–40 age group**, making it the largest demographic.
+- Cholesterol levels are largely concentrated in the **180–200 mg/dL range**.
+
+---
 
 ## 💡 What I Learned
 - Designing KPI-driven healthcare dashboards in Tableau  
