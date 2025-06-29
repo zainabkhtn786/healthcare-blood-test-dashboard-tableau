@@ -1,5 +1,3 @@
-https://img.freepik.com/premium-photo/cardiologist-uses-virtual-dashboard-diagnosis-patient-heart-functions-blood-vessels-testing_517630-740.jpg
-
 # 🩺 Patient Blood Test Data Analysis Dashboard (Tableau)
 
 This is an interactive **healthcare analytics dashboard** built using Tableau to analyze and visualize patient blood test data. The dashboard helps medical professionals and data analysts quickly gain insights into patient demographics and key health indicators such as Hemoglobin, Glucose, WBC, Platelets, and Cholesterol levels.
